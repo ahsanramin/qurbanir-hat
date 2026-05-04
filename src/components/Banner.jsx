@@ -7,7 +7,7 @@ import { FiArrowUpRight } from 'react-icons/fi';
 
 export default function Hero() {
   return (
-    <section className="bg-red-100 py-16">
+    <section className="white py-16">
       <div className="max-w-7xl mx-auto px-4 flex flex-col-reverse md:flex-row items-center gap-10">
 
         {/* Left Content */}
